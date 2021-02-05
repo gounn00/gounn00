@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### I love Alpaca ✨
+🎓 Computer and Information Science Program from Nagasaki University
+📚 Learning C, SQL, and Python
+🔥 Interested in NLP and Data science
 <!--
 **gounn00/gounn00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
